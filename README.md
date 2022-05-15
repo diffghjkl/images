@@ -4,4 +4,4 @@
 
 diffghjklのblog：https://blog.dmoe.top
 
-LinMS：http://www.mclin.top
+LinMS：https://www.mclin.top
